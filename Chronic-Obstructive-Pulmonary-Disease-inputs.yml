@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/acute-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-emphysema---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-bronchitis---primary.py
+inputModule5:
+  class: File
+  path: python/mucopurulent-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule6:
+  class: File
+  path: python/bullous-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule7:
+  class: File
+  path: python/other-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule8:
+  class: File
+  path: python/simple-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule10:
+  class: File
+  path: python/chronic---primary.py
+inputModule11:
+  class: File
+  path: python/cold-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule12:
+  class: File
+  path: python/copd---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
